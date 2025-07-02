@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print(sol.clearDigits("abc123def456"))
     print(sol.clearDigits("hello123world"))
     print(sol.clearDigits("cb34"))
+    print(sol.clearDigits("cleardigits123"))
